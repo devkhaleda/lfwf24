@@ -1,0 +1,115 @@
+.header{
+    background-color: #101446;
+}
+.header-logo img{
+    width: 220px;
+}
+
+
+.primary-menu ul li{
+    display: inline-block;
+}
+.primary-menu ul li a {
+	color: #fff;
+	padding: 0 27px;
+	line-height: 115px;
+	font-size: 19px;
+    text-decoration: none;
+}
+.primary-menu ul li a:hover{
+    background-color: #666994;
+}
+.banner-text span {
+	background-color: #337ab7;
+	padding: 18px 31px;
+	margin-top: 41px;
+	border-radius: 5px 5px;
+	display: inline-block;
+}
+/* bannersection */
+.banner-section {
+    background-image: url(https://i.ibb.co/wcZjqMt/intro-bg.jpg);
+    padding: 220px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.banner-text span{
+    background-color: #337ab7;
+    padding: 15px 25px;
+    margin-top: 5px;
+    border-radius: 5px 5px;
+}
+/* image section */
+
+.image-section{
+    background-color: #bac1f3;
+}
+.image-item h2{
+    color: #1e1e1e;
+    font-family: sans-serif;
+}
+.image-item p{
+    color: #8d674e;
+    font-family: sans-serif;
+}
+
+
+
+.image-item span{
+    background-color: #337ab7;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+/* about section */
+.about-section{
+    background-color: #c2d4ea;
+}
+
+.about{
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.about-section img{
+    max-width: 100%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.col-md-8 ul{
+    list-style: none;
+    font-family:sans-serif;
+}
+.about-section p{
+    font-family: sans-serif;
+}
+.about-section h1{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+/* contact section */
+.contact-section{
+    background-color: #97a4b5;
+
+}
+.contact-section h2{
+    font-size: 30px;
+}
+.formL{
+    margin-left: 60px;
+}
+.button{
+    background-color: #5bc0de;
+    padding: 15px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+/* footer section */
+.footer{
+    background-color: #0062d3;
+    font-size: 20px;
+}
